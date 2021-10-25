@@ -105,9 +105,7 @@ Esta seccion enlista los mayores y mejores provedores de RPA al igual que otras 
 * [Automation Anywhere](https://nextjs.org/)
 * [BluePrism](https://reactjs.org/)
 * [UiPath](https://vuejs.org/)
-* [Python](https://jquery.com)
-** [Selenium - Python](https://jquery.com)
-** [Pyautogui - Python](https://jquery.com)
+* [Python](https://jquery.com) : [Selenium - Python](https://selenium-python.readthedocs.io/) & [Pyautogui - Python](https://jquery.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
