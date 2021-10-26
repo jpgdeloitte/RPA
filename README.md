@@ -75,9 +75,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Sobre el Proyecto...
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+Automation doesn't just impact revenue and time - automating repetitive tasks also leads to an improved customer and employee experience, eases the AI operations, ensures compliance, and makes the decision-making process faster.
 
 Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
